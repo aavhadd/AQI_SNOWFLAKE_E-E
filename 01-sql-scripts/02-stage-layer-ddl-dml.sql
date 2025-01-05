@@ -55,12 +55,6 @@ select
 from @dev_db.stage_sch.raw_stg
 (file_format => JSON_FILE_FORMAT) t;
 
--- @todo interview tag...
--- could you explain the metadata properties
--- why should you use metadata properties
--- how these metadata properties helps you 
--- the table naming convention while building 
--- 16Mb limitations
 
   
 -- creating a raw table to have air quality data
@@ -77,8 +71,6 @@ create or replace transient table raw_aqi (
     _copy_data_ts timestamp default current_timestamp()
 );
 
--- should you create transient table or permanent table? if so why?
--- how the standard table cost more with fail safe concept?
 
 -- copy command
 
