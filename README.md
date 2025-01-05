@@ -37,7 +37,7 @@ This project is a comprehensive **end-to-end data engineering pipeline** and **i
 
 ---
 
-## 📊 Architecture Diagram
+## 📊 Architecture Diagram Jay
 
 
 <img width="1214" alt="Layered-Architecture" src="https://github.com/user-attachments/assets/0a291683-5b55-404d-9562-73833c2c3fac" />
