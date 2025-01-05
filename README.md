@@ -73,10 +73,19 @@ This project is a comprehensive **end-to-end data engineering pipeline** and **i
 ![Dashboard Overview](path-to-dashboard-overview.png)
 
 ### 2️⃣ **AQI Trends by Hour**
+<img width="747" alt="image" src="https://github.com/user-attachments/assets/236eba46-5239-487f-a35b-b7478d197d96" />
+
 ![AQI Trends](path-to-aqi-trends.png)
+
+
+<img width="753" alt="image" src="https://github.com/user-attachments/assets/1d4c393c-026a-470f-bc6b-1b3676c762c6" />
+
 
 ### 3️⃣ **Map View**
 ![Map View](path-to-map-view.png)
+
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/4cd528d0-7fda-46e3-bcf5-321a10e54932" />
+
 
 ---
 
