@@ -49,7 +49,6 @@ This project is a comprehensive **end-to-end data engineering pipeline** and **i
 - **Programming Languages**: Python, SQL
 - **Data Warehouse**: Snowflake
 - **Visualization**: Streamlit
-- **Automation**: GitHub Actions
 - **Data Engineering**: Snowflake Dynamic Tables, Tasks, Virtual Warehouses
 - **Data Modeling**: Star Schema (Fact and Dimension Tables)
 - **APIs**: Ingested real-time data from public AQI sources
