@@ -69,7 +69,7 @@ This project is a comprehensive **end-to-end data engineering pipeline** and **i
 
 ## 📷 Screenshots
 
-### 1️⃣ **Dashboard Overview**
+### 1️⃣ **Dashboard **
 
 
 ### 2️⃣ **AQI Trends by Hour**
