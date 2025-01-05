@@ -70,7 +70,7 @@ This project is a comprehensive **end-to-end data engineering pipeline** and **i
 ## 📷 Screenshots
 
 ### 1️⃣ **Dashboard Overview**
-![Dashboard Overview](path-to-dashboard-overview.png)
+
 
 ### 2️⃣ **AQI Trends by Hour**
 <img width="747" alt="image" src="https://github.com/user-attachments/assets/236eba46-5239-487f-a35b-b7478d197d96" />
@@ -82,7 +82,7 @@ This project is a comprehensive **end-to-end data engineering pipeline** and **i
 
 
 ### 3️⃣ **Map View**
-![Map View](path-to-map-view.png)
+
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/4cd528d0-7fda-46e3-bcf5-321a10e54932" />
 
